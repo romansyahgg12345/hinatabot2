@@ -1,7 +1,7 @@
   {
-  "name": "Hinata-Hyuga",
+  "name": "Hinata-Hyuga", 
   "version": "5.0.0",
-  "description": "Whatsapp Bot By Riy",
+  "description": "Whatsapp Bot By Yuda",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
