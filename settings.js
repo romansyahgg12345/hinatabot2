@@ -12,23 +12,23 @@
   }
 
   // Edit Sesuai Kemauanmu
-  global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
+  global.autoReadGc = false // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
-  global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
-  global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
+  global.autoTyping = true // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
+  global.autoRecord = false // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
   global.limitCount = 70 // 70 Dah Pas Banh
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
+  global.ownername = 'Yuda' // Ganti Jadi Namamu
+  global.owner = ['62895416210179'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '62895416210179' // Owner Utama Istilahnya
+  global.botname = 'Elaina`Bot' // Ganti Jadi Nama Botmu
+  global.packname = 'YudaBot' // Sticker Weem
+  global.author = 'Elaina' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
